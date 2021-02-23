@@ -77,6 +77,7 @@ def replay():
 
 
 print('Welcome to Tic Tac Toe!')
+print('After selecting X or O, the game will start with the computer...')
 
 while True:
     # Reset the board
